@@ -1,7 +1,2 @@
 this is my first git text!
 my first change
-<<<<<<< HEAD
-
-=======
-
->>>>>>> dev
