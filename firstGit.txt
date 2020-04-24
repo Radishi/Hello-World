@@ -1,3 +1,0 @@
-this is my first git text!
-my first change
-already fix bug
